@@ -1,2 +1,2 @@
 # java-president-card-game
-Old Java game I made. Requires HSA Console.
+Old Java game I made. Requires HSA Console to be imported.
